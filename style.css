@@ -61,6 +61,24 @@ nav  a{
     justify-content: space-between;
     text-align: center;
     margin: 40px 159px;
-    gap: 50px;
+    /* gap: 50px; */
 
+}
+.aaa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 40px;
+   padding: 20px;
+    /* gap: 1px; */
+}
+.bbb{
+    opacity: 50%;
+    justify-content: center;
+    text-align: justify;
+}
+.wc-mini img {
+    height: 328px;
+    width: 402px;
+    border-radius: 5px;
 }
