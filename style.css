@@ -195,7 +195,7 @@ body {
 .container {
   text-align: center;
   padding: 50px 20px;
-  background: #f9f9f9;
+  background: #FFFFFF;
 }
 
 .subtitle {
@@ -236,13 +236,16 @@ body {
   padding: 40px 10px;
   background: #f5f7fc;
   flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 30px;
 }
 
 .contact-left {
-width: 528px;
-height: 232px;
+/* width: 528px;
+height: 232px; */
 color: #000000;
 font-size: 24px;
+margin-left:200px;
 
 
 }
@@ -256,6 +259,7 @@ font-size: 24px;
   flex: 1;
   min-width: 250px;
   max-width: 350px;
+  margin-right: 200px;
 }
 
 form {
