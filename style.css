@@ -26,6 +26,10 @@ nav{
      background-color:#4E47FF;
     padding: 12px 36px;
 }
+.btn-primary:hover {
+    background-color: #6A64FF;
+    transform: scale(1.05);  
+}
 nav  a{
     text-decoration: none;
     font-size: 20px;
@@ -214,8 +218,10 @@ body {
   font-weight: bold;
   margin-bottom: 40px;
 }
-/* .container .btn-primary{
-    margin-bottom: 30px; */
+.btn:hover {
+    background-color: #6A64FF; 
+    transform: scale(1.05);    
+}
 
 .image-section {
   display: flex;
